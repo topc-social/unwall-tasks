@@ -6,3 +6,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 
 | # | Date | Who | What | Neki | Status | Link |
 |---|---|---|---|---|---|---|
+| 1 | 2026-10-15 | Kamal Khatwani | Idea (1%) for #2: Set up Unwall as a TOPC project | 8 | provisional | [PR #4](https://github.com/topc-social/unwall-tasks/pull/4) |
+| 2 | 2026-10-15 | Kamal Khatwani | Work (99%) on #2: Set up Unwall as a TOPC project | 792 | provisional | [PR #4](https://github.com/topc-social/unwall-tasks/pull/4) |
