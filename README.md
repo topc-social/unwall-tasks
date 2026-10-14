@@ -1,0 +1,21 @@
+# Unwall tasks
+
+Unwall's public project repo: tasks and the Neki ledger for [Unwall](https://unwall.triagic.com), which turns long AI answers into a one-screen overview, swipeable cards and checklists, in the browser, with no AI. Sayan Bhattacharya built it; it's now a TOPC project anyone can work on.
+
+- [Issues](https://github.com/topc-social/unwall-tasks/issues): open tasks. Each issue is one task, and its `neki:N` label is the Neki it earns (1 Neki = 1 rupee of work at market price).
+- [`LEDGER.md`](LEDGER.md): who has earned what. Your share of Unwall = your Neki / all Neki there.
+
+Code: [tinker20/unwall](https://github.com/tinker20/unwall), open source (MIT).
+
+## How it works
+
+1. Pick any open issue. Anyone can hand in, and the best hand-in wins.
+2. Do the work however you like, including with your own AI.
+3. Hand in by commenting on the issue with a link others can open (usually a pull request on the code repo) and a line or two on what you did.
+4. The owner accepts the best hand-in, labels the issue `accepted`, and closes it. The Neki is added as a row in [`LEDGER.md`](LEDGER.md).
+
+## Rules
+
+- Proof must be something others can open, and anyone you quote or record has to agree to it.
+- Made-up people, answers or numbers earn nothing.
+- Neki is a record of your work and becomes your share in what gets built. Rules: TOPC's NEKI.md.
