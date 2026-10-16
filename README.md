@@ -12,7 +12,7 @@ Code: [tinker20/unwall](https://github.com/tinker20/unwall), open source (MIT).
 1. Pick any open issue. Anyone can hand in, and the best hand-in wins.
 2. Do the work however you like, including with your own AI.
 3. Hand in by commenting on the issue with a link others can open (usually a pull request on the code repo) and a line or two on what you did.
-4. The owner accepts the best hand-in, labels the issue `accepted`, and closes it. The Neki is added as a row in [`LEDGER.md`](LEDGER.md).
+4. The owner accepts the best hand-in, labels the issue `accepted`, and closes it. A workflow then adds the two Neki rows (1% idea, 99% work) to [`LEDGER.md`](LEDGER.md) itself.
 
 ## Rules
 
