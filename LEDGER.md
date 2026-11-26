@@ -20,3 +20,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 12 | 2026-11-27 | Kamal Khatwani (via Claude) | Work (99%) on #15: Unwall Chat: move the page and mailbox to Cloudflare, work runs on your Mac | 3,960 | provisional | https://github.com/kamal0808/unwall-chat/pull/1 |
 | 13 | 2026-11-27 | Kamal Khatwani | Idea (1%) for #14: Unwall Chat: threads can run on your own Mac, not only the server | 27 | provisional | https://github.com/topc-social/unwall-tasks/issues/14 |
 | 14 | 2026-11-27 | Kamal Khatwani (via Claude) | Work (99%) on #14: Unwall Chat: threads can run on your own Mac, not only the server | 2,673 | provisional | https://github.com/kamal0808/unwall-chat/pull/1 |
+| 15 | 2026-11-27 | Kamal Khatwani | Idea (1%) for #18: Unwall Chat: drop or paste images on the input box | 27 | provisional | https://github.com/topc-social/unwall-tasks/issues/18 |
+| 16 | 2026-11-27 | Kamal Khatwani (via Claude) | Work (99%) on #18: Unwall Chat: drop or paste images on the input box | 2,673 | provisional | https://github.com/kamal0808/unwall-chat/pull/1 |
