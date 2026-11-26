@@ -12,3 +12,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 4 | 2026-11-27 | Kamal Khatwani (via Claude) | Work (99%) on #9: Unwall Chat: one page with every Claude Code desktop session | 3,960 | provisional | https://github.com/kamal0808/unwall-chat/pull/1 |
 | 5 | 2026-11-27 | Kamal Khatwani | Idea (1%) for #10: Unwall Chat: open any Claude session from the list and keep talking | 18 | provisional | https://github.com/topc-social/unwall-tasks/issues/10 |
 | 6 | 2026-11-27 | Kamal Khatwani (via Claude) | Work (99%) on #10: Unwall Chat: open any Claude session from the list and keep talking | 1,782 | provisional | https://github.com/kamal0808/unwall-chat/pull/1 |
+| 7 | 2026-11-27 | Kamal Khatwani | Idea (1%) for #13: Unwall Chat: one box that sends each message to the right Claude thread | 40 | provisional | https://github.com/topc-social/unwall-tasks/issues/13 |
+| 8 | 2026-11-27 | Kamal Khatwani (via Claude) | Work (99%) on #13: Unwall Chat: one box that sends each message to the right Claude thread | 3,960 | provisional | https://github.com/kamal0808/unwall-chat/pull/1 |
