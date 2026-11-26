@@ -24,3 +24,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 16 | 2026-11-27 | Kamal Khatwani (via Claude) | Work (99%) on #18: Unwall Chat: drop or paste images on the input box | 2,673 | provisional | https://github.com/kamal0808/unwall-chat/pull/1 |
 | 17 | 2026-11-27 | Kamal Khatwani | Idea (1%) for #16: Unwall Chat: show how many tokens the box is using | 18 | provisional | https://github.com/topc-social/unwall-tasks/issues/16 |
 | 18 | 2026-11-27 | Kamal Khatwani (via Claude) | Work (99%) on #16: Unwall Chat: show how many tokens the box is using | 1,782 | provisional | https://github.com/kamal0808/unwall-chat/pull/1 |
+| 19 | 2026-11-27 | Kamal Khatwani | Idea (1%) for #17: Unwall Chat: a floating bubble with the number of working threads replaces the chips row | 8 | provisional | https://github.com/topc-social/unwall-tasks/issues/17 |
+| 20 | 2026-11-27 | Kamal Khatwani (via Claude) | Work (99%) on #17: Unwall Chat: a floating bubble with the number of working threads replaces the chips row | 792 | provisional | https://github.com/kamal0808/unwall-chat/pull/1 |
