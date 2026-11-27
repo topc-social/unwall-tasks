@@ -38,3 +38,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 30 | 2026-11-27 | Kamal Khatwani (via Claude) | Work (99%) on #20: Unwall Chat: Infinitia's smooth motion (fades, slides, glow) on the page | 2,673 | provisional | https://github.com/kamal0808/unwall-chat/pull/3 |
 | 31 | 2026-11-27 | Kamal Khatwani | Idea (1%) for #25: Unwall: a reply card's green dot turns grey once you've read it | 8 | provisional | https://github.com/topc-social/unwall-tasks/issues/25 |
 | 32 | 2026-11-27 | Kamal Khatwani (via Claude) | Work (99%) on #25: Unwall: a reply card's green dot turns grey once you've read it | 792 | provisional | https://github.com/kamal0808/unwall-chat/pull/5 |
+| 33 | 2026-11-27 | Kamal Khatwani | Idea (1%) for #27: Unwall: send questions about its own screen to an Unwall thread | 8 | provisional | https://github.com/topc-social/unwall-tasks/issues/27 |
+| 34 | 2026-11-27 | Kamal Khatwani (via Claude) | Work (99%) on #27: Unwall: send questions about its own screen to an Unwall thread | 792 | provisional | https://github.com/kamal0808/unwall-chat/pull/7 |
