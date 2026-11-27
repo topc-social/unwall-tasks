@@ -34,3 +34,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 26 | 2026-11-27 | Kamal Khatwani (via Claude) | Work (99%) on #23: Unwall: threads end with a next step, shown as a card in the thread and in For you | 2,673 | provisional | https://github.com/kamal0808/unwall-chat/pull/4 |
 | 27 | 2026-11-27 | Kamal Khatwani | Idea (1%) for #22: Unwall: new topics get their own thread, and threads look things up instead of asking | 12 | provisional | https://github.com/topc-social/unwall-tasks/issues/22 |
 | 28 | 2026-11-27 | Kamal Khatwani (via Claude) | Work (99%) on #22: Unwall: new topics get their own thread, and threads look things up instead of asking | 1,188 | provisional | https://github.com/kamal0808/unwall-chat/pull/4 |
+| 29 | 2026-11-27 | Kamal Khatwani | Idea (1%) for #20: Unwall Chat: Infinitia's smooth motion (fades, slides, glow) on the page | 27 | provisional | https://github.com/topc-social/unwall-tasks/issues/20 |
+| 30 | 2026-11-27 | Kamal Khatwani (via Claude) | Work (99%) on #20: Unwall Chat: Infinitia's smooth motion (fades, slides, glow) on the page | 2,673 | provisional | https://github.com/kamal0808/unwall-chat/pull/3 |
